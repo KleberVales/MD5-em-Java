@@ -9,3 +9,6 @@ O MD5 faz parte de uma série de algoritmos de digestão de mensagens projetados
 
 ### Tarefa:
 Dado uma string alfanumérica 𝑆, representando uma senha, calcule e imprima o valor de hash MD5 correspondente.
+
+### Formato de Entrada
+Uma única string alfanumérica 𝑆.
