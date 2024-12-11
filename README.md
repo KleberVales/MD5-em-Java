@@ -18,3 +18,9 @@ A string 𝑆 consiste apenas em letras do alfabeto inglês (maiúsculas ou min�
 
 ### Formato de Saída
 Imprima o valor do hash MD5 de 𝑆 em uma nova linha.
+
+### Exemplo de Entrada 0
+```
+HelloWorld
+
+```
