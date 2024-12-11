@@ -12,3 +12,5 @@ Dado uma string alfanumérica 𝑆, representando uma senha, calcule e imprima o
 
 ### Formato de Entrada
 Uma única string alfanumérica 𝑆.
+
+### Restrições
