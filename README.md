@@ -26,3 +26,7 @@ HelloWorld
 ```
 
 ### Exemplo de Saída 0
+```
+68e109f0f40ca72a15e05cc22786f8e6
+
+```
