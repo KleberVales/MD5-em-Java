@@ -15,3 +15,6 @@ Uma única string alfanumérica 𝑆.
 
 ### Restrições
 A string 𝑆 consiste apenas em letras do alfabeto inglês (maiúsculas ou minúsculas) e/ou dígitos decimais (0 a 9).
+
+### Formato de Saída
+Imprima o valor do hash MD5 de 𝑆 em uma nova linha.
