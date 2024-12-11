@@ -14,3 +14,4 @@ Dado uma string alfanumérica 𝑆, representando uma senha, calcule e imprima o
 Uma única string alfanumérica 𝑆.
 
 ### Restrições
+A string 𝑆 consiste apenas em letras do alfabeto inglês (maiúsculas ou minúsculas) e/ou dígitos decimais (0 a 9).
