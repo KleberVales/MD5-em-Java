@@ -24,3 +24,5 @@ Imprima o valor do hash MD5 de 𝑆 em uma nova linha.
 HelloWorld
 
 ```
+
+### Exemplo de Saída 0
